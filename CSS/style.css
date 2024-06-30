@@ -1,0 +1,917 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: #3A4466;
+    color: white;
+}
+
+.header{
+    background-color: #262b44;
+}
+
+.bufon-logo{
+    margin: 0 1rem;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #feae34;
+    margin-right: 1rem;
+}
+
+.heroe, .bg-body-tertiary{
+    background-color: #8b9bb4;
+}
+
+.nav-link{
+    color: #feae34;
+}
+
+.picture{
+    display: grid;
+    justify-content: center;
+}
+
+.container-picture{
+    display: grid;
+    grid-template-columns: 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px;
+    grid-template-rows: 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px 14.2857143px;
+    background-color: #3A4466;
+    height: 300px;
+    width: 300px;
+    margin: 0 1rem;
+}
+
+.pixel{
+    background-color: #3A4466;
+}
+
+.pixel1{
+    grid-column: span 6;
+}
+
+.pixel2{
+    background-color: #181425;
+}
+
+.pixel3{
+    grid-column: span 13;
+}
+
+.pixel4{
+    grid-column: span 5;
+}
+
+.pixel5{
+    background-color: #181425;
+}
+
+.pixel6{
+    background-color: #262b44;
+}
+
+.pixel7{
+    background-color: #181425;
+}
+
+.pixel8{
+    grid-column: span 4;
+}
+
+.pixel9{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel10{
+    grid-column: span 6;
+}
+
+.pixel11{
+    grid-column: span 3;
+}
+
+.pixel12{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel13{
+    background-color: #262b44;
+}
+
+.pixel14{
+    background-color: #3a4466;
+}
+
+.pixel15{
+    background-color: #181425;
+}
+
+.pixel16{
+    grid-column: span 2;
+}
+
+.pixel17{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel18{
+    background-color: #262b44;
+}
+
+.pixel19{
+    background-color: #3A4466;
+}
+
+.pixel20{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel21{
+    grid-column: span 4;
+}
+
+.pixel22{
+    grid-column: span 2;
+}
+
+.pixel23{
+    background-color: #181425;
+}
+
+.pixel24{
+    background-color: #262b44;
+    grid-column: span 2;
+}
+
+.pixel25{
+    background-color: #3A4466;
+    grid-column: span 2;
+}
+
+.pixel26{
+    background-color: #262b44;
+}
+
+.pixel27{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel28{
+    background-color: #262b44;
+}
+
+.pixel29{
+    background-color: #3A4466;
+    grid-column: span 4;
+}
+
+.pixel30{
+    background-color: #262b44;
+}
+
+.pixel31{
+    background-color: #181425;
+}
+
+.pixel32{
+    grid-column: span 3;
+}
+
+.pixel33{
+    grid-column: span 2;
+}
+
+.pixel34{
+    background-color: #181425;
+}
+
+.pixel35{
+    background-color: #262b44;
+}
+
+.pixel36{
+    background-color: #181425;
+}
+
+.pixel37{
+    background-color: #3A4466;
+    grid-column: span 3;
+}
+
+.pixel38{
+    background-color: #181425;
+}
+
+.pixel39{
+    background-color: #262b44;
+}
+
+.pixel40{
+    background-color: #3A4466;
+    grid-column: span 3;
+}
+
+.pixel41{
+    background-color: #262b44;
+}
+
+.pixel42{
+    background-color: #3A4466;
+    grid-column: span 2;
+}
+
+.pixel43{
+    background-color: #181425;
+}
+
+.pixel44{
+    grid-column: span 3;
+}
+
+.pixel45{
+    grid-column: span 2;
+}
+
+.pixel46{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel47{
+    background-color: #3A4466;
+    grid-column: span 7;
+}
+
+.pixel48{
+    background-color: #262b44;
+}
+
+.pixel49{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel50{
+    background-color: #262b44;
+}
+
+.pixel51{
+    background-color: #3A4466;
+    grid-column: span 2;
+}
+
+.pixel52{
+    background-color: #181425;
+}
+
+.pixel53{
+    grid-column: span 2;
+}
+
+.pixel55{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel56{
+    background-color: #262b44;
+}
+
+.pixel57{
+    background-color: #3A4466;
+    grid-column: span 3;
+}
+
+.pixel58{
+    background-color: #262b44;
+}
+
+.pixel59{
+    background-color: #3A4466;
+    grid-column: span 5;
+}
+
+.pixel60{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel61{
+    background-color: #262b44;
+}
+
+.pixel62{
+    background-color: #3A4466;
+}
+
+.pixel63{
+    background-color: #262b44;
+}
+
+.pixel64{
+    background-color: #181425;
+}
+
+.pixel67{
+    background-color: #181425;
+}
+
+.pixel68{
+    background-color: #3A4466;
+    grid-column: span 3;
+}
+
+.pixel69{
+    background-color: #262b44;
+}
+
+.pixel70{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel71{
+    background-color: #262b44;
+}
+
+.pixel72{
+    background-color: #3A4466;
+}
+
+.pixel73{
+    background-color: #181425;
+}
+
+.pixel74{
+    background-color: #262b44;
+}
+
+.pixel75{
+    background-color: #3A4466;
+    grid-column: span 2;
+}
+
+.pixel76{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel77{
+    background-color: #3A4466;
+    grid-column: span 2;
+}
+
+.pixel78{
+    background-color: #181425;
+}
+
+.pixel80{
+    background-color: #181425;
+}
+
+.pixel81{
+    background-color: #262b44;
+}
+
+.pixel82{
+    background-color: #3A4466;
+    grid-column: span 3;
+}
+
+.pixel83{
+    background-color: #181425;
+}
+
+.pixel84{
+    background-color: #5a6988;
+    grid-column: span 2;
+}
+
+.pixel85{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel86{
+    background-color: #5a6988;
+}
+
+.pixel87{
+    background-color: #181425;
+}
+
+.pixel88{
+    background-color: #3A4466;
+    grid-column: span 2;
+}
+
+.pixel89{
+    background-color: #262b44;
+}
+
+.pixel90{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel91{
+    background-color: #262b44;
+}
+
+.pixel92{
+    background-color: #feae34;
+}
+
+.pixel93{
+    background-color: #181425;
+}
+
+.pixel94{
+    background-color: #181425;
+}
+
+.pixel95{
+    background-color: #262b44;
+}
+
+.pixel96{
+    background-color: #181425;
+}
+
+.pixel97{
+    background-color: #262b44;
+}
+
+.pixel98{
+    background-color: #181425;
+}
+
+.pixel99{
+    background-color: #5a6988;
+}
+
+.pixel100{
+    background-color: #8b9bb4;
+    grid-column: span 2;
+}
+
+.pixel101{
+    background-color: #5a6988;
+    grid-column: span 2;
+}
+
+.pixel102{
+    background-color: #8b9bb4;
+}
+
+.pixel103{
+    background-color: #5a6988;
+}
+
+.pixel104{
+    background-color: #181425;
+}
+
+.pixel105{
+    background-color: #3A4466;
+    grid-column: span 2;
+}
+
+.pixel106{
+    background-color: #181425;
+}
+
+.pixel108{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel110{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel111{
+    background-color: #feae34;
+}
+
+.pixel112{
+    background-color: #181425;
+}
+
+.pixel113{
+    background-color: #5a6988;
+}
+
+.pixel114{
+    background-color: #8b9bb4;
+}
+
+.pixel115{
+    background-color: #c0cbdc;
+}
+
+.pixel116{
+    background-color: #8b9bb4;
+    grid-column: span 4;
+}
+
+.pixel117{
+    background-color: #5a6988;
+}
+
+.pixel118{
+    background-color: #181425;
+}
+
+.pixel119{
+    background-color: #3a4466;
+}
+
+.pixel120{
+    background-color: #181425;
+}
+
+.pixel121{
+    grid-column: span 5;
+}
+
+.pixel123{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel124{
+    background-color: #5a6988;
+}
+
+.pixel125{
+    background-color: #8b9bb4;
+}
+
+.pixel126{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel127{
+    background-color: #8b9bb4;
+    grid-column: span 4;
+}
+
+.pixel128{
+    background-color: #181425;
+}
+
+.pixel129{
+    background-color: #262b44;
+}
+
+.pixel130{
+    background-color: #3A4466;
+}
+
+.pixel131{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel132{
+    grid-column: span 4;
+}
+
+.pixel133{
+    grid-column: span 2;
+}
+
+.pixel134{
+    background-color: #181425;
+}
+
+.pixel135{
+    background-color: #8b9bb4;
+}
+
+.pixel136{
+    background-color: #181425;
+}
+
+.pixel137{
+    background-color: #c0cbdc;
+}
+
+.pixel138{
+    background-color: #8b9bb4;
+}
+
+.pixel139{
+    background-color: #181425;
+}
+
+.pixel140{
+    background-color: #8b9bb4;
+    grid-column: span 2;
+}
+
+.pixel141{
+    background-color: #181425;
+}
+
+.pixel142{
+    background-color: #feae34;
+}
+
+.pixel143{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel144{
+    background-color: #8b9bb4;
+}
+
+.pixel145{
+    background-color: #181425;
+}
+
+.pixel146{
+    grid-column: span 4;
+}
+
+.pixel147{
+    grid-column: span 2;
+}
+
+.pixel148{
+    background-color: #181425;
+}
+
+.pixel149{
+    background-color: #5a6988;
+}
+
+.pixel150{
+    background-color: #8b9bb4;
+    grid-column: span 7;
+}
+
+.pixel151{
+    background-color: #181425;
+}
+
+.pixel152{
+    background-color: #8b9bb4;
+    grid-column: span 2;
+}
+
+.pixel153{
+    background-color: #5a6988;
+}
+
+.pixel154{
+    background-color: #181425;
+}
+
+.pixel155{
+    grid-column: span 4;
+}
+
+.pixel156{
+    grid-column: span 2;
+}
+
+.pixel157{
+    background-color: #181425;
+}
+
+.pixel158{
+    background-color: #5a6988;
+}
+
+.pixel159{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel160{
+    background-color: #8b9bb4;
+    grid-column: span 6;
+}
+
+.pixel161{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel162{
+    background-color: #5a6988;
+}
+
+.pixel163{
+    background-color: #181425;
+}
+
+.pixel164{
+    grid-column: span 4;
+}
+
+.pixel165{
+    grid-column: span 3;
+}
+
+.pixel166{
+    background-color: #181425;
+}
+
+.pixel167{
+    background-color: #8b9bb4;
+}
+
+.pixel168{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel169{
+    background-color: #8b9bb4;
+    grid-column: span 4;
+}
+
+.pixel170{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel171{
+    background-color: #8b9bb4;
+}
+
+.pixel172{
+    background-color: #181425;
+}
+
+.pixel173{
+    grid-column: span 5;
+}
+
+.pixel174{
+    grid-column: span 3 ;
+}
+
+.pixel175{
+    background-color: #181425;
+}
+
+.pixel176{
+    background-color: #5a6988;
+}
+
+.pixel177{
+    background-color: #181425;
+    grid-column: span 8;
+}
+
+.pixel178{
+    background-color: #5a6988;
+}
+
+.pixel179{
+    background-color: #181425;
+}
+
+.pixel180{
+    grid-column: span 5;
+}
+
+.pixel181{
+    grid-column: span 4;
+}
+
+.pixel182{
+    background-color: #181425;
+}
+
+.pixel183{
+    background-color: #5a6988;
+}
+
+.pixel184{
+    background-color: #181425;
+    grid-column: span 6;
+}
+
+.pixel185{
+    background-color: #5a6988;
+}
+
+.pixel186{
+    background-color: #181425;
+}
+
+.pixel187{
+    grid-column: span 6;
+}
+
+.pixel188{
+    grid-column: span 4;
+}
+
+.pixel189{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel190{
+    background-color: #5a6988;
+    grid-column: span 2;
+}
+
+.pixel191{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel192{
+    background-color: #5a6988;
+    grid-column: span 2;
+}
+
+.pixel193{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel194{
+    grid-column: span 6;
+}
+
+.pixel195{
+    grid-column: span 6;
+}
+
+.pixel196{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel197{
+    background-color: #5a6988;
+    grid-column: span 2;
+}
+
+.pixel198{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.pixel199{
+    grid-column: span 8;
+}
+
+.pixel200{
+    grid-column: span 8;
+}
+
+.pixel201{
+    background-color: #181425;
+    grid-column: span 2;
+}
+
+.feature{
+    margin: 0 1rem;
+}
+
+.heroe{
+    display: grid;
+    justify-content: center;
+    place-items: center;
+    background-color: #c0cbdc !important;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: #c0cbdc !important;
+}
+
+h3{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.footer, .container-footer{
+    background-color: #262b44;
+}
+
+.text-body-secondary {
+    --bs-text-opacity: 1;
+    color: rgb(255 255 255 / 75%) !important;
+}
+
+.f{
+    padding-right: 40px;
+}
